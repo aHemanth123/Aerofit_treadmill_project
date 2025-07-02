@@ -27,6 +27,16 @@ The dataset contains customer information for purchases made in the last 3 month
 | Miles           | Estimated miles walked/ran per week                |
 
 ---
+## 📦 Product Portfolio (with Prices)
+
+| Product | Description                         | Price (USD) |
+|---------|-------------------------------------|-------------|
+| KP281   | Entry-level treadmill               | $1,500      |
+| KP481   | Mid-level treadmill                 | $1,750      |
+| KP781   | Advanced treadmill with more features | $2,500      |
+
+---
+
 
 ## 🧪 Analysis Performed
 
