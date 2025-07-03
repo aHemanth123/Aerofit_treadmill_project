@@ -42,8 +42,7 @@ The dataset contains customer information for purchases made in the last 3 month
 
 - Descriptive statistics for each product
 - Box plots for age, education, usage, fitness
-- Count plots for gender, fitness levels, and usage patterns
-- Crosstabs and conditional probabilities for age groups and product choices
+- Count plots for gender, fitness levels, and usage patterns 
 - Revenue calculations per product
 - Final business recommendations
 
